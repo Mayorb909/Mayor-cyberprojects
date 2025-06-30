@@ -1,5 +1,5 @@
 # Hello, I'm Edward.
-https://www.linkedin.com/in/mayowa-a-8b523b268
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayowa-a-8b523b268)
 
 ### INTRODUCTION.
    I am a dedicated and experienced licensed science teacher who has transitioned into a technology professional, specializing in Security Operations Center (SOC) analyst and marketing strategist. I am passionate about leveraging my educational background and detail-oriented technical expertise in Cybersecurity to drive innovation, tackle complex challenges, and support organizations in achieving a standardized security posture. I am eager to connect with industry professionals and explore opportunities to contribute to advancements in technology security as well as the educational sphere.
@@ -15,6 +15,7 @@ My journey as a science educator has led me to develop a passion for cybersecuri
 ### TOOLS.
 
 ### CERTIFICATION
+[![CompTIA Security+ Certification](https://img.shields.io/badge/CompTIA_Security%2B_Certification-red)](https://www.credly.com/badges/05f1b132-13c7-418b-a8cb-93b282ddadac)
 
 ### PROJECTS
 1. <a href="https://github.com/Mayorb909/Creating-key-lodger-with-python/blob/main/README.md
