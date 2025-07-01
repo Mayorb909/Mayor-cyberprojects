@@ -43,4 +43,7 @@ Working on learning AWS
 - <a href="https://github.com/Mayorb909/Creating-key-lodger-with-python/tree/main">
   <img src="https://img.shields.io/badge/Key%20Lodger%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Key Lodger GitHub Repo">
 </a>
-- 
+
+- <a href="https://github.com/Mayorb909/SOC-Automation/tree/main">
+  <img src="https://img.shields.io/badge/SOC%20Automation%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Key Lodger GitHub Repo">
+</a>
