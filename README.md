@@ -17,7 +17,7 @@ My journey as a science educator has led me to develop a passion for cybersecuri
 ### CERTIFICATION
 [![CompTIA Security+ Certification](https://img.shields.io/badge/CompTIA_Security%2B-red)](https://www.credly.com/badges/05f1b132-13c7-418b-a8cb-93b282ddadac)
 
-<a href="https://www.credly.com/org/coursera/badge/google-cybersecurity-professional-certificate-v2">
+<a href="https://www.credly.com/badges/43706ea8-ffcf-4982-be1c-67a1925f4874">
   <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate" width="60" height="60">
 </a>
 
