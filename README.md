@@ -13,6 +13,22 @@ My journey as a science educator has led me to develop a passion for cybersecuri
 |Python programminglanguage|  created keylodger with python|
 
 ### TOOLS.
+###### NETWORK
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-orange?style=for-the-badge&logo=suricata&logoColor=white)
+
+
+###### ENDPOINT AND OS.
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-Tool-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+
+###### CLOUD
+Working on learning AWS
+
+###### SIEM
+![Splunk (SIEM)](https://img.shields.io/badge/Splunk%20-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logo=wazuh&logoColor=white)
+
 
 ### CERTIFICATION
 [![CompTIA Security+ Certification](https://img.shields.io/badge/CompTIA_Security%2B-red)](https://www.credly.com/badges/05f1b132-13c7-418b-a8cb-93b282ddadac)
@@ -24,5 +40,5 @@ My journey as a science educator has led me to develop a passion for cybersecuri
 
 
 ### PROJECTS
-1. <a href="https://github.com/Mayorb909/Creating-key-lodger-with-python/blob/main/README.md
+- keylodger
 
