@@ -23,13 +23,14 @@ My goal is to contribute meaningfully to security teams and projects by combinin
 | Linux command, SQL | deployed security tools on Ubuntu and Kali, used SQL to query the database for suspicious login attempts |
 |SIEM tools | I deployed Wazuh on a Windows machine and simulated different attacks to see how the events are logged, and I also deployed Splunk in a simulated organization's Active Directory, with one of the machines on the Active Directory being attacked to see how Splunk logged it|
 |Network Analysis | I used Wireshark to capture network traffic on a simulated organization network to detect a brute-force attack with indicators like unusual traffic patterns, repeated failed login attempts from the same or multiple IP addresses, and I also analyzed PCAPs of real-world attacks.|
-|Vulnerability Scanning | I use Nessus vulnerability scanning  to scan Windows and Linux OS for malware, and also web applications for vulnerabilities like SQL injection, and XSS | 
+|Vulnerability Scanning | I use Nessus vulnerability scanning  to scan Windows and Linux OS for malware, and also web applications for vulnerabilities like SQL injection and XSS. I have also used OWASP ZAP and Burp Suite to scan for web app vulnerabilities using the OWASP Juice Shop web application | 
 |Security Framework| I use AtomicRed Team to simulate an attack on a Windows machine to see how to configure HIDS logs it which helps me understand MITRE ATT&CK techniques.|
 |Security framework | I created a network topography that ensures a standardized security posture with the ISO 27001 security framework, which ensures confidentiality, integrity, and availability.|
 | Incident response | I created an incident response playbook that simulates how an organization should handle some common security threats like ransomware, phishing breach, and insider threat, DDoS Attacks, and Malware following the NIST SP 800-61 framework
 |transferable skills | Troubleshooting technical issues, clear communication from my teaching career, paying attention to detail, and calmness when solving challenging issues|
 | Logs analysis | I perform alert triage when querying logs on Splunk to check for IOC |
 |firewall | I configure firewall for all the VM instances I have running on Google Cloud, where I only have the required port open|
+
  
   
 
