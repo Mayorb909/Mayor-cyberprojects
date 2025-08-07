@@ -29,7 +29,7 @@ My goal is to contribute meaningfully to security teams and projects by combinin
 | Incident response | I created an incident response playbook that simulates how an organization should handle some common security threats like ransomware, phishing breach, and insider threat, DDoS Attacks, and Malware following the NIST SP 800-61 framework
 |transferable skills | Troubleshooting technical issues, clear communication from my teaching career, paying attention to detail, and calmness when solving challenging issues|
 | Logs analysis | I perform alert triage when querying logs on Splunk to check for IOC |
-|firewall | I configure the firewall for all the VM instances I have running on Google Cloud, where I only have the required port open|
+|firewall | I configure firewall for all the VM instances I have running on Google Cloud, where I only have the required port open|
  
   
 
