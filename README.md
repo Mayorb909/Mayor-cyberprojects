@@ -65,6 +65,7 @@ My goal is to contribute meaningfully to security teams and projects by combinin
 
 
 ### PROJECTS
+[![SIEM Project](https://img.shields.io/badge/SIEM--Deployment--for--SOC--Operation-blue?logo=github&logoColor=white)](https://github.com/Mayorb909/SIEM-DEPLOYMENT--FOR-SOC-OPERATION)
 - <a href="https://github.com/Mayorb909/Creating-key-lodger-with-python/tree/main">
   <img src="https://img.shields.io/badge/Key%20Lodger%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Key Lodger GitHub Repo">
 </a>
