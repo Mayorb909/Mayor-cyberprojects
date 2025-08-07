@@ -5,7 +5,7 @@
   I'm a licensed science teacher who has transitioned into a technology professional, specializing in SOC analyst with solid foundations in IT SUPPORT.  I am passionate about leveraging my educational background,  detail-oriented technical expertise, and troubleshooting in Cybersecurity to drive innovation, tackle complex challenges, and support organizations in achieving a standardized security posture.
 
 ###  OBJECTIVE
-My journey in IT Support and teaching has led me to develop a passion for cybersecurity. Several skills in analytical thinking, troubleshooting, problem-solving, paying attention to details, and clear communication skills that I have honed throughout my years of teaching complex scientific concepts. I'm currently exploring the dynamic field of cybersecurity with a particular interest in network security, vulnerability assessment, gap analysis, and asset security. I’m particularly interested in the role of a SOC Analyst, where I can apply and expand my skills in:
+My journey in IT Support and teaching has led me to develop a passion for cybersecurity. My journey has sharpened key skills in analytical thinking, troubleshooting, problem-solving, attention to detail, and clear communication—skills that are essential in navigating today’s digital threat landscape.. I'm currently exploring the dynamic field of cybersecurity with a particular interest in network security, vulnerability assessment, gap analysis, and asset security. I’m particularly interested in the role of a SOC Analyst, where I can apply and expand my skills in:
 - 🔍 Threat Detection & Incident Response
 - 🧠 Security Information and Event Management (SIEM) tools
 - 🛡️ Intrusion Detection Systems (IDS) & Firewalls
@@ -29,6 +29,7 @@ My goal is to contribute meaningfully to security teams and projects by combinin
 | Incident response | I created an incident response playbook that simulates how an organization should handle some common security threats like ransomware, phishing breach, and insider threat, DDoS Attacks, and Malware following the NIST SP 800-61 framework
 |transferable skills | Troubleshooting technical issues, clear communication from my teaching career, paying attention to detail, and calmness when solving challenging issues|
 | Logs analysis | I perform alert triage when querying logs on Splunk to check for IOC |
+|firewall | I configure the firewall for all the VM instances I have running on Google Cloud, where I only have the required port open|
  
   
 
